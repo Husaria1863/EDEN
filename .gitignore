@@ -1,0 +1,25 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Godot exported builds
+/export/
+builds/
+*.exe
+*.app
+*.x86_64
+*.apk
+*.aab
+*.pck
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
